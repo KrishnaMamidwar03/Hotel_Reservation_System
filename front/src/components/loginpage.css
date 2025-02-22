@@ -1,0 +1,20 @@
+.background-container {
+    background-image: url('https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/4a/d1/02/nh-collection-dubai-the.jpg?w=1200&h=-1&s=1'); /* Replace with your image URL */
+    background-size: cover;
+    background-position: center;
+    height: 100vh; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden; 
+  }
+  
+  .table-container {
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.7); 
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
+    width: 700px;
+    margin: 350px;
+    
+  }

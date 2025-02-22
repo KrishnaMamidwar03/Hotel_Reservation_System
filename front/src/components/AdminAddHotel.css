@@ -1,0 +1,23 @@
+/* Custom CSS for the AdminAddHotel component */
+
+.form-border {
+    border: 2px solid #007bff; /* Blue border color */
+}
+
+.form-border .form-control {
+    border: 2px solid #007bff; /* Blue border color for inputs */
+}
+
+.form-border .form-control:focus {
+    border-color: #0056b3; /* Darker blue for focus state */
+    box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.25); /* Shadow for focus */
+}
+
+.btn-success {
+    background-color: #28a745; /* Green button background */
+    border: none;
+}
+
+.btn-success:hover {
+    background-color: #218838; /* Darker green on hover */
+}

@@ -1,0 +1,7 @@
+.bgcontainer{
+    background-color: transparent;
+    background-image: url('../images/room4.webp'); 
+    background-size: cover; /* Ensures the image covers the entire container */
+    background-position: center; /* Centers the image */
+    height: 100vh;
+  }
